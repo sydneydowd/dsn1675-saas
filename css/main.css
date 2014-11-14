@@ -64,7 +64,28 @@ img {
 }
 
 .nav a:hover {
-    color:gray;
+    color:#177F75;
+}
+
+.backtotop {
+    display: inline-block;
+    text-align: right;
+}
+
+footer {
+    background-color: black;
+}
+
+footer p {
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+
+.sectionblue {
+    color: #177F75;
 }
 
 @media only screen and (min-width: 20em) {
@@ -74,7 +95,7 @@ img {
     }
     
     .nav {
-    text-align: right;
+    text-align: center;
     }
 }
 
