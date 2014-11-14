@@ -45,3 +45,58 @@ body {
   margin: 0;
   padding: 0;
 }
+
+img {
+  display: block;
+  width: 100%;
+}
+
+.nav {
+    padding:0;
+    list-style-type: none;
+    
+}
+.nav a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    text-align: right;
+}
+
+.nav a:hover {
+    color:gray;
+}
+
+@media only screen and (min-width: 20em) {
+    
+    .nav li {
+     display:inline-block;
+    }
+    
+    .nav {
+    text-align: right;
+    }
+}
+
+@media only screen and (min-width: 44em) {
+    
+    .nav {
+        text-align: right;
+    }
+     
+     .nav {
+    text-align: right;
+    }
+    
+}
+
+@media only screen and (min-width: 60em) {
+    
+     .nav {
+        text-align: right;
+    }
+     
+     .nav {
+    text-align: right;
+    }
+}
