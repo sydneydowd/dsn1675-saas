@@ -124,7 +124,14 @@ button{
 }
  
 main {
-    background-image: url(images/billboard.jpg)
+    background-image: url(images/billboard.jpg);
+    height:700px;
+    width: 100%;
+}
+
+h2 {
+    font-weight: 400;
+}
 
 @media only screen and (min-width: 20em) {
     
