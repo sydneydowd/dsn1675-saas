@@ -65,7 +65,6 @@ header {
     text-decoration: none;
     color:white;
     text-align: right;
-    font-weight: 600;
 }
 
 .nav a:hover {
@@ -106,7 +105,7 @@ button:hover {
 }
   
 button:active {
-    border-color: black;
+    border-color:#ff1d8e;
 }
 
 button{  
@@ -125,7 +124,7 @@ button{
  
 main {
     background-image: url(images/billboard.jpg);
-    height:700px;
+    height:600px;
     width: 100%;
 }
 

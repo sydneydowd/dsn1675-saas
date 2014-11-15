@@ -25,8 +25,13 @@ h1, h2, h3, h4, h5, h6,
     font-family: normal 100%/1.5 "Raleway" sans-serif;
 }
 
+.logo {
+    font-size: 2rem;
+    font-family: "Pacifico" serif;
+}
+
 .yotta {
-  font-size: 2.2807rem;
+  font-size: 3.2807rem;
   line-height: 1.3154;
 }
 
