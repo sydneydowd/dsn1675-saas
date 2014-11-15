@@ -51,6 +51,10 @@ img {
   width: 100%;
 }
 
+header {
+    background-color:#D3D3D3;
+}
+
 .nav {
     padding:0;
     list-style-type: none;
@@ -61,10 +65,11 @@ img {
     text-decoration: none;
     color:white;
     text-align: right;
+    font-weight: 600;
 }
 
 .nav a:hover {
-    color:#177F75;
+    color:#ff1d8e;
 }
 
 .backtotop {
@@ -73,7 +78,7 @@ img {
 }
 
 footer {
-    background-color: black;
+    background-color: #ff1d8e;
 }
 
 footer p {
@@ -84,12 +89,8 @@ footer p {
     color: white;
 }
 
-.sectionblue {
-    color: #177F75;
-}
-
-.sectionwhite {
-    color: white;
+.sectionpink {
+    color:#ff1d8e;
 }
 
 .footer ul a::after {
@@ -100,16 +101,8 @@ footer p {
     content: none;
 }
 
-header {
-    background-image:url(images/test.jpg);
-    background-color: white;
-    height: 600px;
-    background-repeat: no-repeat;
-    display:block;
-}
-
 button:hover {
-    color:#177F75;
+    color:#ff1d8e;
 }
   
 button:active {
@@ -125,8 +118,16 @@ button{
     font-family: "Raleway" sans-serif;
 }
 
-.headline {
-    text-align: center;
+.image { 
+   position: relative; 
+   width: 100%;
+}
+
+h2 { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
 }
 
 @media only screen and (min-width: 20em) {
