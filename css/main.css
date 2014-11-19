@@ -52,7 +52,7 @@ img {
 }
 
 header {
-    background-color:#D3D3D3;
+    background-color:#f2f7fa;
 }
 
 .nav {
@@ -63,7 +63,7 @@ header {
 .nav a{
     display: block;
     text-decoration: none;
-    color:white;
+    color:black;
     text-align: right;
 }
 
@@ -110,8 +110,8 @@ button:active {
 
 button{  
     position:relative;
-    border:2px solid white;
-    background-color:white;
+    border:2px solid #f2f7fa;
+    background-color:#f2f7fa;
     color:black;
     border-radius: 10px;
     font-family: "Raleway" sans-serif;
@@ -152,9 +152,12 @@ figcaption {
 }
 
 .about {
-    background-color:#D3D3D3;
-    max-width: 35em;
-    margin: 0 auto;
+    background-color:#f2f7fa;
+}
+
+.icons {
+    height: 50%;
+    width: 50%;
 }
 
 @media only screen and (min-width: 20em) {
@@ -177,8 +180,6 @@ figcaption {
      .nav {
     text-align: right;
     }
-    
-   
 }
 
 @media only screen and (min-width: 60em) {
