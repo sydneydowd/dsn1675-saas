@@ -150,10 +150,7 @@ figcaption {
     text-align: center;
 }
 
-.banner-img {
-    padding-top: 56.25;
-    background-image: url(images/billboard.jpg/1920x1080) no-repeat center center;
-    background-color: #D3D3D3;
+.banner-img { 
 }
 
 @media only screen and (min-width: 20em) {
