@@ -144,6 +144,10 @@ h2 {
     background-color:#ff1d8e ;
 }
 
+figcaption {
+    text-align: center;
+}
+
 @media only screen and (min-width: 20em) {
     
     .nav li {
