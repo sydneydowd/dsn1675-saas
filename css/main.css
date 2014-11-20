@@ -92,6 +92,10 @@ footer p {
     color:#ff1d8e;
 }
 
+.sectionblue {
+    color: #2f368f;
+}
+
 .footer ul a::after {
     content: " ·";
 }
@@ -156,8 +160,8 @@ figcaption {
 }
 
 .icons {
-    height: 50%;
-    width: 50%;
+    height: 60%;
+    width: 60%;
 }
 
 @media only screen and (min-width: 20em) {
