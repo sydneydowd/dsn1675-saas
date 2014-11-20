@@ -74,7 +74,7 @@ header {
 .backtotop {
     display: inline-block;
     text-align: right;
-}
+} 
 
 footer {
     background-color: #ff1d8e;
@@ -162,6 +162,7 @@ figcaption {
 .icons {
     height: 60%;
     width: 60%;
+    
 }
 
 @media only screen and (min-width: 20em) {
