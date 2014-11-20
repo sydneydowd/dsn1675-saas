@@ -4,8 +4,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
 <path fill="none" stroke="#BCBEC0" stroke-width="3.9515" stroke-linecap="round" stroke-miterlimit="10" d="M572.4,555.9"/>
-<path fill="#2F368F" d="M396,358.7L396,358.7c-39.1,0-70.5-31.9-70.5-70.5v-167c0-39.1,31.9-70.6,70.5-70.6l0,0
-	c39.1,0,70.5,31.9,70.5,70.6v166.6C466.5,326.8,435.1,358.7,396,358.7z"/>
+<path fill="none" stroke="#2F368F" stroke-width="40" stroke-linecap="round" stroke-miterlimit="10" d="M396,358.7L396,358.7
+	c-39.1,0-70.5-31.9-70.5-70.5v-167c0-39.1,31.9-70.6,70.5-70.6l0,0c39.1,0,70.5,31.9,70.5,70.6v166.6
+	C466.5,326.8,435.1,358.7,396,358.7z"/>
 <path fill="none" stroke="#2F368F" stroke-width="40" stroke-linecap="round" stroke-miterlimit="10" d="M270.2,237.1
 	c0,0-22.5,190.8,125,175.1c0,0,142,19.1,127.1-170.4"/>
 <line fill="none" stroke="#2F368F" stroke-width="40" stroke-linecap="round" stroke-miterlimit="10" x1="395.2" y1="429.2" x2="395.2" y2="505.3"/>

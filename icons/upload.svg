@@ -3,10 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
-<path fill="#2F368F" d="M237.9,313.7h316.6c24.2,0,37-28.5,20.8-46.3L416.8,91.8c-11-12.3-30.2-12.3-41.2,0L217.1,267.3
-	C200.9,285.2,213.7,313.7,237.9,313.7z"/>
-<path fill="#2F368F" d="M460.6,529.5H331.4c-5.5,0-9.8-4.2-9.8-9.8V275.8c0-5.5,4.2-9.8,9.8-9.8h129.2c5.5,0,9.8,4.2,9.8,9.8v244
-	C470.4,525.3,466.1,529.5,460.6,529.5z"/>
+<path fill="none" stroke="#2F368F" stroke-width="40" stroke-miterlimit="10" d="M237.9,313.7h316.6c24.2,0,37-28.5,20.8-46.3
+	L416.8,91.8c-11-12.3-30.2-12.3-41.2,0L217.1,267.3C200.9,285.2,213.7,313.7,237.9,313.7z"/>
+<path fill="none" stroke="#2F368F" stroke-width="36.1705" stroke-miterlimit="10" d="M460.6,529.5H331.4c-5.5,0-9.8-3.5-9.8-8
+	V322.1c0-4.5,4.2-8,9.8-8h129.2c5.5,0,9.8,3.5,9.8,8v199.5C470.4,526.1,466.1,529.5,460.6,529.5z"/>
 <path fill="none" stroke="#BCBEC0" stroke-width="3.9515" stroke-linecap="round" stroke-miterlimit="10" d="M572.4,555.9"/>
 <g>
 	<circle fill="#BCBEC0" cx="946.8" cy="406.3" r="91.8"/>
@@ -28,4 +28,7 @@
 <ellipse fill="#C5D7DA" cx="1303.8" cy="-73.1" rx="303" ry="303"/>
 <image overflow="visible" width="122" height="74" xlink:href="../../../../../../Desktop/Screen Shot 2014-11-20 at 11.42.47 AM.png"  transform="matrix(1.1467 0 0 1.1467 -201.85 487.1213)">
 </image>
+<image overflow="visible" width="122" height="74" xlink:href="../../../../../../Desktop/Screen Shot 2014-11-20 at 11.42.47 AM.png"  transform="matrix(1.1467 0 0 1.1467 -215.85 290.6301)">
+</image>
+<rect x="340" y="273" fill="#FFFFFF" width="112.2" height="84"/>
 </svg>
