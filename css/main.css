@@ -71,6 +71,18 @@ header {
     color:#ff1d8e;
 }
 
+.whitetype {
+    color: white;
+}
+
+.sectionpink {
+    color:#ff1d8e;
+}
+
+.sectionblue {
+    color: #2f368f;
+}
+
 .backtotop {
     display: inline-block;
     text-align: right;
@@ -82,18 +94,6 @@ footer {
 
 footer p {
     color: white;
-}
-
-.whitetype {
-    color: white;
-}
-
-.sectionpink {
-    color:#ff1d8e;
-}
-
-.sectionblue {
-    color: #2f368f;
 }
 
 .footer ul a::after {
