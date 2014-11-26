@@ -119,6 +119,7 @@ button{
     color:black;
     border-radius: 10px;
     font-family: "Raleway" sans-serif;
+    text-decoration: none;
 }
 
 .image { 
@@ -162,7 +163,6 @@ figcaption {
 .icons {
     height: 60%;
     width: 60%;
-    
 }
 
 @media only screen and (min-width: 20em) {
