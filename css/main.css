@@ -163,12 +163,6 @@ figcaption {
     background-color:#f2f7fa;
 }
 
-.icons {
-    height: 40%;
-    width: 40%;
-    margin-left: auto;
-    margin-right: auto;
-}
 
 @media only screen and (min-width: 20em) {
     
