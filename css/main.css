@@ -70,6 +70,18 @@ img {
     top: 0;
 }
 
+a:hover,
+a:active {
+    /* Its okay to remove the focus rectangle for mouse users
+        ITS NOT OLAY TO REMOVE FOR KEYBOARD USERS
+    */
+    outline: none;
+}
+
+a:focus {
+    outline: 3px solid #000;
+}
+
 header {
     background-color:#f2f7fa;
 }
