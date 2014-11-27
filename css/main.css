@@ -149,7 +149,6 @@ button{
     background-color:#f2f7fa;
     color:black;
     border-radius: 10px;
-    font-family: "Raleway" sans-serif;
     text-decoration: none;
     display: block;
     margin-left: auto;
@@ -241,6 +240,5 @@ figcaption {
     
     .billboard {
         height: 500px;
-        float: center center;
     }
 }
