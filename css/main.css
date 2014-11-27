@@ -48,7 +48,6 @@ body {
 
 img {
   display: block;
-  width: 100%;
 }
 
 .skip-links {
@@ -151,12 +150,11 @@ button{
 }
  
 .billboard {
-    padding-top: 6em;
     background-image: url(images/billboard.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center center;
-    height: 500px;
+
 }
 
 h2 {
@@ -169,10 +167,12 @@ h2 {
 	border-left: 20px solid transparent;
 	border-right: 20px solid transparent;
 	border-top: 20px solid white;
+    margin: 0 auto;
 }
 
 .scroll {
-    background-color:#ff1d8e ;
+    background-color:#ff1d8e;
+    text-align: center;
 }
 
 figcaption {
@@ -184,10 +184,12 @@ figcaption {
 }
 
 .icon {
-    height: 60%;
+    margin: 0 auto;
+}
+
+.figimg{
     width: 60%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
 }
 
 @media only screen and (min-width: 20em) {
@@ -201,7 +203,7 @@ figcaption {
     }
     
     h1 {
-        text-align: center;
+    text-align: center;
     }
 }
 
@@ -224,5 +226,10 @@ figcaption {
      
      .nav {
     text-align: right;
+    }
+    
+    .billboard {
+        height: 500px;
+        float: center center;
     }
 }
