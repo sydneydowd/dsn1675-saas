@@ -108,6 +108,7 @@ header {
 
 .sectionpink {
     color:#ff1d8e;
+    text-decoration: none;
 }
 
 .sectionblue {
@@ -135,11 +136,11 @@ footer p {
     content: none;
 }
 
-button:hover {
+.getstarted:hover {
     color:#ff1d8e;
 }
   
-button:active {
+.getstarted:active {
     border-color:#ff1d8e;
 }
 
@@ -153,6 +154,15 @@ button{
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.getstarted {
+    text-decoration: none;
+}
+
+logo {
+    text-decoration: none;
+    color: #ff1d8e;
 }
 
 .image { 
