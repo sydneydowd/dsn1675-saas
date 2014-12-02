@@ -171,10 +171,11 @@ logo {
 }
  
 .billboard {
-    background-image: url(images/billboard.jpg);
+    background-image: url(images/headline.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center center;
+    padding-top: 5rem;
 }
 
 h2 {
