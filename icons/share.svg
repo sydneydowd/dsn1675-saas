@@ -2,14 +2,17 @@
 <!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
-<path fill="none" stroke="#BCBEC0" stroke-width="3.9515" stroke-linecap="round" stroke-miterlimit="10" d="M572.4,555.9"/>
-<circle fill="#BCBEC0" cx="-279.8" cy="343" r="91.8"/>
-<ellipse fill="#2F368F" cx="224.7" cy="305.6" rx="51.4" ry="51.4"/>
-<ellipse fill="#2F368F" cx="493.3" cy="156.4" rx="51.4" ry="51.4"/>
-<ellipse fill="#2F368F" cx="493.3" cy="445.4" rx="51.4" ry="51.4"/>
-<polyline fill="none" stroke="#2F368F" stroke-width="40" stroke-miterlimit="10" points="493.3,156.4 224.7,305.6 493.3,445.4 "/>
-<ellipse fill="#C5D7DA" cx="1176.3" cy="156.4" rx="303" ry="303"/>
-<image overflow="visible" width="122" height="74" xlink:href="../../../../../../Desktop/Screen Shot 2014-11-20 at 11.42.47 AM.png"  transform="matrix(1.1467 0 0 1.1467 -175.85 62.5463)">
-</image>
+	 viewBox="126 216 360 360" enable-background="new 126 216 360 360" xml:space="preserve">
+<circle fill="none" stroke="#2F368F" stroke-width="18.8834" stroke-miterlimit="10" cx="306" cy="396" r="170"/>
+<line fill="none" stroke="#2F368F" stroke-width="20" stroke-linecap="round" stroke-miterlimit="10" x1="305.6" y1="503.2" x2="305.6" y2="334.2"/>
+<path fill="none" stroke="#2F368F" stroke-width="20" stroke-linecap="round" stroke-miterlimit="10" d="M305.6,465.9
+	c0.4-2.6,3.7-30.9-18-51c-19.4-18-43.6-15.4-47-15"/>
+<path fill="none" stroke="#2F368F" stroke-width="20" stroke-linecap="round" stroke-miterlimit="10" d="M306,468.6
+	c-0.4-2.6-3.7-30.9,18-51c19.4-18,43.6-15.4,47-15"/>
+<path fill="none" stroke="#2F368F" stroke-width="13.7193" stroke-linecap="round" stroke-miterlimit="10" d="M274.1,330l63.3,0.6
+	c5.3,0.1,8.3-6,5.1-10.3l-27.9-36.2c-4.2-5.4-12.3-5.5-16.5-0.2l-28.8,36C266.1,324,269,329.9,274.1,330z"/>
+<path fill="none" stroke="#2F368F" stroke-width="11.047" stroke-linecap="round" stroke-miterlimit="10" d="M233.2,426.2l3.7-50.9
+	c0.3-4.3-4.4-7-8-4.6l-30.6,20.5c-4.6,3.1-5,9.6-1,13.3l27.5,25C228,432.3,232.9,430.4,233.2,426.2z"/>
+<path fill="none" stroke="#2F368F" stroke-width="11.047" stroke-linecap="round" stroke-miterlimit="10" d="M378.8,428.1l-3.7-50.9
+	c-0.3-4.3,4.4-7,8-4.6l30.6,20.5c4.6,3.1,5,9.6,1,13.3l-27.5,25C384,434.2,379.1,432.2,378.8,428.1z"/>
 </svg>
