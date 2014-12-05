@@ -179,6 +179,14 @@ logo {
     padding-top: 5rem;
 }
 
+.thankbillboard {
+    background-image:url(images/headline.jpg);
+    height: 40em;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
 h2 {
     font-weight: 500;
 }
@@ -314,5 +322,9 @@ form {
     
     .billboard {
         height: 500px;
+    }
+    
+    .pricingbox{
+        max-width: none;
     }
 }
