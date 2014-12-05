@@ -181,10 +181,12 @@ logo {
 
 .thankbillboard {
     background-image:url(images/headline.jpg);
-    height: 40em;
+    height: 42em;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+    text-align: center;
+    padding-top:11em;
 }
 
 h2 {
@@ -271,6 +273,11 @@ form {
     background-color:#f2f7fa;
 }
 
+ .pricingbox{
+        max-width:25em;
+        margin: 0 auto;
+    }
+
 
 @media only screen and (min-width: 20em) {
     
@@ -286,10 +293,6 @@ form {
     text-align: center;
     }
     
-    .pricingbox{
-        max-width:25em;
-        margin: 0 auto;
-    }
     
 }
 
@@ -306,6 +309,11 @@ form {
     
     .pricingbox{
         max-width: none;
+    }
+    
+    .thanktext {
+        max-width: 40em;
+        margin: 0 auto;
     }
     
 }
@@ -326,5 +334,10 @@ form {
     
     .pricingbox{
         max-width: none;
+    }
+    
+    .thanktext {
+        max-width: 40em;
+        margin: 0 auto;
     }
 }
