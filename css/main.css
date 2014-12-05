@@ -99,7 +99,7 @@ header {
 }
 
 .nav a:hover {
-    color:#ff1d8e;
+    color:#2f368f;
 }
 
 .whitetype {
@@ -255,8 +255,8 @@ form {
     margin: 0 auto;
     text-align: center;
     font-size: 2rem;
-    color:#ff1d8e;
-    background-color:#f2f7fa;
+    color:white;
+    background-color:#ff1d8e;
 }
 
 .pricelist{
@@ -264,8 +264,8 @@ form {
     text-align: center;
     display: block;
     list-style: none;
-    background-color:#ff1d8e;
-    color: white;
+    background-color:#c6d7da;
+    color: black;
     padding: 0;
 }
 
@@ -277,7 +277,6 @@ form {
         max-width:25em;
         margin: 0 auto;
     }
-
 
 @media only screen and (min-width: 20em) {
     
