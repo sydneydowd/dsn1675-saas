@@ -158,8 +158,9 @@ button{
 
 .getstarted {
     text-decoration: none;
+    color: black;
 }
-
+    
 logo {
     text-decoration: none;
     color: #ff1d8e;
@@ -240,7 +241,22 @@ form {
     white-space: nowrap;
 }
 
+.pricingtitle{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 2rem;
+    color:#ff1d8e;
+    background-color:#f2f7fa; 
+}
 
+.pricelist{
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    background-color:#ff1d8e;
+    color: white;
+}
 
 
 @media only screen and (min-width: 20em) {
