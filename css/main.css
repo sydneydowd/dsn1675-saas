@@ -284,8 +284,9 @@ form {
     text-align: center;
     }
     
-    h1 {
-    text-align: center;
+    .logo {
+    margin:0 auto;
+    max-width: 5em;
     }
     
     
