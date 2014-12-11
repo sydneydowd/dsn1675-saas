@@ -176,7 +176,6 @@ logo {
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center center;
-    padding-top: 5rem;
     height: 30em;
 }
 
@@ -188,10 +187,6 @@ logo {
     background-position: center center;
     text-align: center;
     padding-top:11em;
-}
-
-h2 {
-    font-weight: 500;
 }
 
 .arrow-down {
@@ -304,7 +299,7 @@ form {
     }
      
      .nav {
-    text-align: right;
+        text-align: right;
     }
     
     .pricingbox{
@@ -316,6 +311,10 @@ form {
         margin: 0 auto;
     }
     
+     .billboard {
+        padding-top: 5em;
+    }
+    
 }
 
 @media only screen and (min-width: 60em) {
@@ -325,7 +324,7 @@ form {
     }
      
      .nav {
-    text-align: right;
+        text-align: right;
     }
     
     .billboard {
@@ -339,6 +338,10 @@ form {
     .thanktext {
         max-width: 40em;
         margin: 0 auto;
+    }
+    
+    .billboard {
+        padding-top: 5em;
     }
     
 }
