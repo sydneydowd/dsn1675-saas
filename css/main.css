@@ -339,4 +339,9 @@ form {
         max-width: 40em;
         margin: 0 auto;
     }
+    
+    .icon {
+    max-width: 60em;
+    width:%;
+}
 }
