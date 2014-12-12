@@ -136,14 +136,13 @@ footer p {
     content: none;
 }
 
-.button a :hover {
+button a :hover {
     color:#ff1d8e;
 }
 
-.button {  
-    position: absolute;
-    left: 35%;
-    background-color: white;
+button {  
+    position:absolute;
+    background-color: #f2f7fa;
     color: black;
     text-decoration: none;
     border-color: #f2f7fa;
@@ -153,17 +152,6 @@ footer p {
     margin-right: auto;
 }
 
-.pricingfooter a {
-    position: relative;
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 50px;
-    padding-right: 50px;
-    color: black;
-    text-decoration: none;
-    background-color: #f2f7fa;
-}
 
 .getstarted {
     text-decoration: none;
