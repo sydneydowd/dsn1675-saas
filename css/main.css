@@ -136,11 +136,11 @@ footer p {
     content: none;
 }
 
-button a :hover {
+.button a :hover {
     color:#ff1d8e;
 }
 
-button {  
+.button {  
     position:absolute;
     background-color: #f2f7fa;
     color: black;
