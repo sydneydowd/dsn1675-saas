@@ -136,22 +136,19 @@ footer p {
     content: none;
 }
 
-.getstarted:hover {
+.button a :hover {
     color:#ff1d8e;
 }
-  
-.getstarted:active {
-    border-color:#ff1d8e;
-}
 
-button{  
-    position:relative;
-    border:2px solid #f2f7fa;
-    background-color:#f2f7fa;
-    color:black;
-    border-radius: 10px;
+.button {  
+    position: absolute;
+    left: 35%;
+    background-color: white;
+    color: black;
     text-decoration: none;
-    display: block;
+    border-color: #f2f7fa;
+    border-radius: 10px;
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
 }
