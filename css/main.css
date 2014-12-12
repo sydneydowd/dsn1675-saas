@@ -136,11 +136,12 @@ footer p {
     content: none;
 }
 
-.button a :hover {
+.button :hover {
     color:#ff1d8e;
 }
 
 .buttonsignup{
+    display: block;
     text-align: center;
     background-color: #f2f7fa;
     color: black;
@@ -148,11 +149,13 @@ footer p {
     margin: 0 auto;
     border-color: #f2f7fa;
     border-radius: 10px;
+    max-width: 7em;
 } 
 
 
 .buttonprice {
     position: relative;
+    display: block;
     text-align: center;
     background-color: #f2f7fa;
     color: black;
