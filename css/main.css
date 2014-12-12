@@ -153,18 +153,6 @@ footer p {
     margin-right: auto;
 }
 
-.signup { 
-    position: relative;
-    margin-left: 2rem;
-    background-color:#ff1d8e ;
-    color: white;
-    text-decoration: none;
-    border-color: #ff1d8e;
-    border-radius: 10px;
-    text-align: center;
-    margin: 0 auto;
-}
-
 .getstarted {
     text-decoration: none;
     color: black;
